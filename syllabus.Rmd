@@ -1,0 +1,345 @@
+---
+title: "Core Readings in Public Law, GOV 384N"
+date: "Spring 2024"
+classroom: "BAT 5.102"
+classhours: "Thursday 9 a.m. to noon"
+
+author: "JBrandon Duck-Mayr"
+instructorpronouns: "They/Them"
+email: "Use Canvas to email"
+office: "MEZ 3.128"
+officehours: "Tuesday 9 a.m. to noon, or by appointment"
+
+# TA: "Firstname Lastname"
+# # TApronouns: "They/Them"
+# TAemail: "Use Canvas to email"
+# TAoffice: "MEZ 3.128"
+# TAofficehours: "R 10--11 AM or appointment"
+
+titlecolor: "BurntOrange"
+sectioncolor: "BurntOrange"
+subsectioncolor: "Blue"
+urlcolor: "Blue"
+
+output: quack::syllabus
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Course Description
+
+This course provides an overview of the field of public law in political science.
+Because much of the course is about the evolution of the field, it is dominated by a focus on American politics and courts.
+Short shrift is given to works on jurisprudence, legal theory, Constitutional
+interpretation and history, and comparative public law.
+These topics are considered more fully in other courses.
+Because the focus is political science, most readings are by political scientists even though public law is an interdisciplinary field.
+A one-semester course cannot include all important topics in the field, nor can it assign all the important works on the topics that are covered.
+Nevertheless, this course attempts to do some of both.
+The reasons for selecting particular readings vary.
+Some of the reasons include: (1) the reading is a classic, or it is familiar to most students of public law, or it is part of the intellectual history of the field; (2) the reading is seen as important by the profession (e.g., it has been published in a major journal, or it has won the American Political Science Association's award for the best book or article in public law); (3) the reading is an example of an area of substantive interest; or (4) the reading is an example of a method of research.
+Given these criteria, all readings are not equally good or interesting; indeed, you may consider some dreadful, but it is important to be aware of them.
+Topics are selected because they are (or have been) considered important in the public law field or because they might be important in the future.
+The course should provide students with a good sense of this very broad field and highlight opportunities in research and teaching.[^1]
+
+[^1]: Familiarity with the literature and topics assigned in this course is a necessary though not a sufficient condition for preparation for the preliminary examination in public law. As one example, public law concentrators are required to have a basic knowledge of Constitutional law.
+
+# Required Readings
+
+Required readings will be made available electronically via Canvas.
+However, almost all books that will be covered in whole or in part would make for prudent purchases for you as your build your libraries...
+But purchase will not be necessary for the course itself.
+
+# Course Requirements and Evaluation
+
+
+Course grades are comprised of the following components:
+
+- 25%: Class participation
+- 25%: Essay
+- 50%: Research paper
+
+## Class participation
+
+You are expected to read all assigned materials and to participate actively in class discussions.
+For three class meetings,[^2] you will be expected to upload a discussion guide to Canvas by 5 p.m. the day before the class meeting.
+This need not be extensive; it will include a **brief** (around 150 words) summary one of that weeks readings and about five questions to provoke discussion of the readings.
+
+[^2]: I will initially allow you to choose for yourself which class meetings you complete this assignment for, though I reserve the right to alter your selections somewhat if too many students are choosing the same topics.
+
+## Essay
+
+The essay is a thoughtful reflection on at least one of the broad theoretical questions addressed in the course.
+It should be about 1,000--1,500 words, or about 4--6 double-spaced typed pages.
+Your reflection should demonstrate knowledge that you have gained from our readings and discussion, and discuss competing approaches to the question.
+Some examples of such questions include:
+
+- Where does judicial power/autonomy come from?
+- Can we reasonably expect courts to uphold minority rights?
+- What is the basic function of courts (including but not limited to the Supreme Court) in a political system?
+
+## Research paper
+
+You will submit either a research paper on a topic of your choice, though it must be related to the issues raised in the course.
+It should be about 4,000--5,000 words, or about 16--20 double-spaced typed pages.
+Your research should either be empirical (even if not necessarily quantitative) or employ a positive theoretical approach (e.g. utilizing game theory or social choice theory).
+You should
+
+- make one or more original claims,
+- present a valid and feasible research design to address your question(s),
+- and if your paper proposes empirical analysis,
+  + begin collecting data if possible for your research design,
+  + and preferably have at least preliminary analysis of the data,
+- and make clear how your research represents a meaningful contribution to the literature.
+
+We will talk more about the research paper in class, but to be clear from the outset, I do not necessarily expect sophisticated methodology *so long as* your approach is reasonably suited to your research question.
+You will present your research in our last class meeting.
+
+# Course Policies
+
+This syllabus is subject to change as necessary, but if a change is necessary, you will be notified both in class and via email about the change and access to an up-to-date copy will be provided.
+
+\newpage
+
+# Course Map
+
+1. Modeling law
+
+   A. The Nature of Law
+      - Holmes, Oliver Wendell. 1997. "The Path of the Law." *Harvard Law Review* 110(5): 991--1009. https://doi.org/10.2307/1342108.
+      - Hart, H. L. A. 1958. "Positivism and the Separation of Law and Morals." *Harvard Law Review* 71(4): 593--629. https://doi.org/10.2307/1338225.
+      - Fuller, Lon L. 1958. "Positivism and Fidelity to Law: A Reply to Professor Hart." *Harvard Law Review* 71(4): 630–72. https://doi.org/10.2307/1338226.
+
+   B. Modeling law, part one
+      - Kornhauser, Lewis. 1992. "Modeling Collegial Courts: Legal Doctrine." *Journal of Law, Economics, and Organization* 8: 441-70.
+      - Lax, Jeffrey. 2007. "Constructing Legal Rules on Appellate Courts." *American Political Science Review* 101(3): 591.
+
+   C. Modeling law, part two
+      - Richards, Mark J. and Herbert M. Kritzer. 2002. "Jurisprudential Regimes in Supreme Court Decision Making." *American Political Science Review* 96(2): 305-320. http://ezproxy.lib.utexas.edu/login?url=https://www.proquest.com/scholarly-journals/jurisprudential-regimes-supreme-court-decision/docview/214419471/se-2.
+      - Lax, Jeffrey R., and Kelly T. Rader. 2010. "Legal Constraints on Supreme Court Decision Making: Do Jurisprudential Regimes Exist?" *Journal of Politics* 72(2): 273–84. https://doi.org/10.1017/s0022381609990855.
+      - Kritzer, Herbert M., and Mark J. Richards. 2010. "Taking and Testing Jurisprudential Regimes Seriously: A Response to Lax and Rader." *Journal of Politics* 72(2): 285–88. https://doi.org/10.1017/s0022381609990867.
+      - Lax, Jeffrey R., and Kelly T. Rader. 2010. "The Three Prongs of a Jurisprudential Regimes Test: A Response to Kritzer and Richards." *Journal of Politics* 72(2): 289–91. https://doi.org/10.1017/s0022381609990739.
+
+   D. Modeling law, part three
+      - Read one of:
+         + Clark, Tom S. 2016. "Scope and precedent: judicial rule-making under uncertainty". *Journal of Theoretical Politics* 28(3), 353--384. https://doi-org.ezproxy.lib.utexas.edu/10.1177/0951629814568397
+         + Callander, Steven and Tom S. Clark. 2017. "Precedent and Doctrine in a Complicated World." *American Political Science Review* 111(1): 184--203. http://ezproxy.lib.utexas.edu/login?url=https://www.proquest.com/scholarly-journals/precedent-doctrine-complicated-world/docview/1878172911/se-2.
+      - Duck-Mayr, JBrandon. 2021. "Explaining Legal Inconsistency". https://jbduckmayr.com/publication/explaining-legal-inconsistency/. (Note: You should be at least as critical of my work as anyone else's).
+
+2. Judicial Decision Making
+
+   A. Basic models of judicial decision-making
+      - Segal, Jeffrey A. and Harold J Spaeth. *The Supreme Court and the Attitudinal Model Revisited* (electronic copy coming soon)
+      - Baum, Lawrence. *The Puzzle of Judicial Behavior*. https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=3414539
+   
+   B. Approaches to studying judicial decision-making
+      i.   Empirical research on US Courts
+           - Klein, David, "Law in Judicial Decision-Making", in Lee Epstein, and Stefanie A. Lindquist (eds), *The Oxford Handbook of U.S. Judicial Behavior* (2017; online edn), https://doi.org/10.1093/oxfordhb/9780199579891.013.5
+      ii.  Theoretical models of judicial decision-making
+           - Epstein, Lee, Christopher M. Parker, & Jeffrey A. Segal. 2018. “Do Justices Defend the Speech They Hate? An Analysis of In-Group Bias on the U.S. Supreme Court.” *Journal of Law and Courts* 6: 237-261. https://static1.squarespace.com/static/60188505fb790b33c3d33a61/t/60505244b980b95b1c9c5a2b/1615876677315/InGroupBias.pdf
+      iii. Comparative studies
+           - Daniel M Brinks, Abby Blass. 2017. "Rethinking judicial empowerment: The new foundations of constitutional justice". *International Journal of Constitutional Law*, 15(2): 296–331, https://doi.org/10.1093/icon/mox045.
+           - Hurwitz, Mark and Todd A. Curry. 2016. “Institutional Effects on the Careers of State Supreme Court Justices”. *American Review of Politics* 35:44--65. (Available through Canvas)
+   
+   C. Topics in judicial decision-making, part one
+      i.  Agenda setting
+          - Caldiera, Gregory A. and John R. Wright. 1988. "Organized Interests and Agenda Setting in the U.S. Supreme Court." *American Political Science Review* 82(4): 1109. http://ezproxy.lib.utexas.edu/login?url=https://www.proquest.com/scholarly-journals/organized-interests-agenda-setting-u-s-supreme/docview/214446405/se-2.
+          - Black, Ryan C., and Ryan J. Owens. 2009. "Agenda Setting in the Supreme Court: The Collision of Policy and Jurisprudence." *Journal of Politics* 71(3): 1062–75. https://doi.org/10.1017/s0022381609090884.
+          - (H.W. has a great, classic book on this, though we won't have time to cover it in-depth: https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991050902459706011)
+      ii. The "hierarchy of justice"
+          - Westerland, Chad, Jeffrey A. Segal, Lee Epstein, Charles M. Cameron, and Scott Comparato. 2010. "Strategic Defiance and Compliance in the U.S. Courts of Appeals." *American Journal of Political Science* 54(4): 891–905. http://www.jstor.org/stable/20788776.
+   D. Topics in judicial decision-making, part two
+      i.  Panel effects
+          - Hinkle, Rachael K. 2017. "Panel Effects and Opinion Crafting in the US Courts of Appeals." *Journal of Law and Courts* 5(2): 313–36. https://www.jstor.org/stable/26558122.
+      ii. Constraints
+          - Bailey, Michael A. and Forrest Maltzman. 2008. "Does Legal Doctrine Matter? Unpacking Law and Policy Preferences on the U.S. Supreme Court." *American Political Science Review* 102(3): 369-384. http://ezproxy.lib.utexas.edu/login?url=https://www.proquest.com/scholarly-journals/does-legal-doctrine-matter-unpacking-law-policy/docview/214438295/se-2.
+          - Duck-Mayr, JBrandon. nd. "The Force of the Law". https://jbduckmayr.com/working-papers/force-of-the-law/. (Note: You should be at least as critical of my work as anyone else's).
+
+3. Why courts?
+   
+   A. The general case, part one
+      - Whittington, Keith. 2005. “Interpose Your Friendly Hand: ...” American Political Science Review 99(4): 583-596.
+      - Landes, William and Richard Posner. 1975. “The Independent Judiciary in an Interest-Group Perspective.”  Journal of Law and Economics 18(3): 875-901.
+      - Hanssen, F. Andrew. 2004. “Is There a Politically Optimal Level of Judicial Independence?”  American Economic Review 94(3): 712-729.
+   
+   B. The general case, part two
+      - Przeworski, Adam. 2005. “Democracy as an Equilibrium.” Public Choice 123(3): 253-273.
+      - Carrubba, Cliff. 2005. “Courts and Compliance in International Regulatory Regimes.” Journal of Politics 67: 669-689.
+      - Rogers, James. 2001. “Information and Judicial Review: A Signaling Game of Legislative-Judicial Interaction.” American Journal of Political Science 45(1): 84-99.
+      - Fox, Justin and Matthew Stephenson 2011. “Judicial Review As a Response to Political Posturing.” American Political Science Review 105(2): 397-414.
+   
+   C. What about in authoritarian regimes??
+      - Ginsburg, Tom and Tamir Moustafa. 2008. “The Functions of Courts in Authoritarian Politics.”  In T Ginsburg and T Moustafa (eds). Rule by Law.  CUP.
+      - Hillibink, Lisa. 2008. “Agents of Anti-Politics:  Courts in Pinochet’s Chile.”  In  T Ginsburg and T Mostafa (eds) Rule By Law. CUP.
+      - Trochev, Alex. 2004. “Less Democracy, More Courts:  A Puzzle of Judicial Review in Russia.”  Law and Society Review 38(3): 523-548.
+
+4. Courts' impact
+
+   A. Rule of law
+      - Rodriguiez, Daniel, Matthew McCubbins, and Barry Weingast. 2009. “The Rule of Law Unplugged.” *Emory Law Review* 59: 1455. 
+      - Haggard, Stephen and Lydia Tiede. 2011. “The Rule of Law and Economic Growth:  Where are We?”  *World Development* 39(5): 673-685.
+      - Carlin, Ryan. 2012. “Rule-of-Law typologies in Contemporary Societies.” *Justice System Journal* 33(2): 154-173.
+   
+   B. Implementation
+      - Gerald Rosenberg, *The Hollow Hope*. https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=448579
+   
+   C. Implementation, continued
+      - Mathew Hall, *The Nature of Supreme Court Power*. https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=605064
+
+5. **Research presentations!**
+
+\newpage
+
+# University Policies and Resources
+
+## Academic Integrity Expectations
+
+Students who violate University rules on academic dishonesty are subject to disciplinary penalties, including the possibility of failure in the course and/or dismissal from the University.
+Since such dishonesty harms the individual, all students, and the integrity of the University, policies on academic dishonesty will be strictly enforced.
+For further information, please visit the Student Conduct and Academic Integrity website at: <http://deanofstudents.utexas.edu/conduct>.
+
+Plagiarism is taken very seriously at UT and is subject to academic disciplinary action, including failure of the course.
+To learn more about what plagiarism is and how to avoid it, see the [Avoiding Plagiarism tutorial](https://guides.lib.utexas.edu/c.php?g=539686&p=8083280) developed by the UT Libraries in partnership with the Writing Flag program and Student Judicial Services. 
+
+<!-- ## Confidentiality of Class Recordings -->
+
+<!-- Class recordings are reserved only for students in this class for educational purposes and are protected under FERPA. -->
+<!-- The recordings should not be shared outside the class in any form. -->
+<!-- Violation of this restriction by a student could lead to Student Misconduct proceedings. -->
+
+## Getting Help with Technology
+
+Students needing help with technology in this course should contact the [ITS Service Desk](https://its.utexas.edu/contact).
+
+<!-- ## Content Warning -->
+
+<!-- Our classroom provides an open space for the critical and civil exchange of ideas. -->
+<!-- Some readings and other content in this course will include topics that some students may find offensive and/or traumatizing. -->
+<!-- I'll aim to forewarn students about potentially disturbing content, and I ask all students to help to create an atmosphere of mutual respect and sensitivity. -->
+
+## Basic Needs Security
+
+Any student who faces challenges securing their food or housing and believes this may affect their performance in the course is urged to contact the Dean of Students for support.
+UT maintains the [UT Outpost](https://deanofstudents.utexas.edu/emergency/utoutpost.php), which is a free on-campus food pantry and career closet.
+Furthermore, if you are comfortable notifying me, please do so, as I may have additional resources I can share.
+
+## Sharing of Course Materials is Prohibited
+
+No materials used in this class, including, but not limited to, lecture hand-outs, videos, assessments (quizzes, exams, papers, projects, homework assignments), in-class materials, review sheets, and additional problem sets, may be shared online or with anyone outside of the class without explicit, written permission of the instructor. Unauthorized sharing of materials promotes cheating. The University is well aware of the sites used for sharing materials, and any materials found online that are associated with you, or any suspected unauthorized sharing of materials, will be reported to Student Conduct and Academic Integrity in the Office of the Dean of Students. These reports can result in sanctions, including failure of the course.
+
+## Religious Holy Days
+
+By [UT Austin policy](https://catalog.utexas.edu/general-information/academic-policies-and-procedures/attendance/), you must notify me of your pending absence as far in advance as possible of the date of observance of a religious holy day.
+If you must miss a class, an examination, a work assignment, or a project in order to observe a religious holy day, you will be given an opportunity to complete the missed work within a reasonable time after the absence.
+
+## Names and Pronouns
+
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, culture, religion, politics, sexual orientation, gender identity & expression, and nationalities.
+Class rosters are provided to the instructor with the student's legal name, unless they have added a "chosen name" with the registrar's office, which you can do so [here](https://utdirect.utexas.edu/apps/ais/chosen_name/).
+I will gladly honor your request to address you by a name that is different from what appears on the official roster, and by the pronouns you use (she/he/they/ze, etc).
+Please advise me of any changes early in the semester so that I may make appropriate updates to my records.
+For instructions on how to add your pronouns to Canvas, visit [this site](https://utexas.instructure.com/courses/633028/pages/profile-pronouns).
+More resources available on the Gender and Sexuality Center’s website, <http://www.utgsc.org>.
+
+## Disability & Access
+
+The university is committed to creating an accessible and inclusive learning environment consistent with university policy and federal and state law.
+Please let me know if you experience any barriers to learning so I can work with you to ensure you have equal opportunity to participate fully in this course.
+If you are a student with a disability, or think you may have a disability, and need accommodations please contact Disability & Access (D&A).
+Please refer to the D&A website for more information: <http://diversity.utexas.edu/disability/>.
+If you are already registered with D&A, please deliver your Accommodation Letter to me as early as possible in the semester so we can discuss your approved accommodations and needs in this course.
+
+## Counseling and Mental Health Center (CMHC)
+
+All of us benefit from support during times of struggle.
+Know you are not alone.
+If you or anyone you know is experiencing symptoms of stress, anxiety, depression, academic concerns, loneliness, difficulty sleeping, or any other concern impacting your wellbeing, you are strongly encouraged to connect with CMHC.
+The Counseling and Mental Health Center provides a wide variety of mental health services to all UT students including crisis services, counseling services with immediate support and well-being resources.
+Additionally, CARE Counselors are located within the academic schools and colleges.
+These counselors get to know the concerns that are unique to their college’s students.
+For more information on CMHC, visit <https://cmhc.utexas.edu> or call 512-471-3515.
+
+## University Health Services (UHS)
+
+Your physical health and wellness are a priority.
+University Health Services is an on-campus high-quality medical facility providing care to all UT students.
+Services offered by UHS include general medicine, urgent care, a 24/7 nurse advice line, gynecology, sports medicine, physical therapy, lab and radiology services, COVID-19 testing and vaccinations and much more.
+For additional information, visit <https://healthyhorns.utexas.edu> or call 512-471-4955.
+
+## Sanger Learning Center
+
+Did you know that more than one-third of UT undergraduate students use the Sanger Learning Center each year to improve their academic performance?
+All students are welcome to take advantage of Sanger Center's classes and workshops, private learning specialist appointments, peer academic coaching, and tutoring for more than 70 courses in 15 different subject areas.
+For more information, please visit <https://ugs.utexas.edu/slc> or call 512-471-3614 (JES A332).
+
+## Student Emergency Services (SES)
+
+Student Emergency Services in the Office of the Dean of Students helps students and their families during difficult or emergency situations.
+Assistance includes outreach, advocacy, intervention, support, and referrals to relevant campus and community resources.
+If you need to be absent from class due to a family emergency, medical or mental health concern, or academic difficulty due to crisis or an emergency situation, you can work with Student Emergency Services.
+SES will document your situation and notify your professors.
+Additional information is available at <https://deanofstudents.utexas.edu/emergency/> or by calling 512-471-5017.  
+
+## BeVocal
+
+BeVocal is a university-wide initiative to promote the idea that individual Longhorns have the power to prevent high-risk behavior and harm.
+At UT Austin all Longhorns have the power to intervene and reduce harm.
+To learn more about BeVocal and how you can help to build a culture of care on campus, go to: <https://wellnessnetwork.utexas.edu/BeVocal>.
+
+## Wellbeing Resources
+
+You can find resources for self-care at [Longhorn Wellness Center](https://www.healthyhorns.utexas.edu/healthpromotion.html).
+See also [Virtual Mindfulness and Stress Reduction Activities](https://cmhc.utexas.edu/stress-reduction.html).
+
+## Other resources
+
+- Undergraduate Writing Center: <http://uwc.utexas.edu/>
+- UT Libraries: <http://www.lib.utexas.edu/>
+
+## Important Safety Information
+
+If you have concerns about the safety or behavior of fellow students, TAs or professors, contact BCCAL (the Behavior Concerns and COVID-19 Advice Line) at <https://safety.utexas.edu/behavior-concerns-advice-line> or by calling 512-232-5050.
+Confidentiality will be maintained as much as possible, however the university may be required to release some information to appropriate parties.
+
+### Classroom safety and COVID-19
+
+- For any illness, students should stay home if they are sick or contagious, not only to stop the spread, but also to promote their personal wellness.
+- The university will continue to provide rapid antigen self-test kits at distribution sites throughout campus. Students can receive up to four tests at a time.
+- The university will provide symptomatic COVID-19 testing on campus for all students, faculty and staff.
+- UHS maintains up-to-date resources on COVID, which can be found here:
+  + COVID-19 Information and Resources
+  + COVID-19 Exposure Action Chart
+
+### Carrying of Handguns on Campus
+
+Texas' Open Carry law expressly prohibits a licensed to carry (LTC) holder from carrying a handgun openly on the campus of an institution of higher education such as UT Austin.
+Students in this class should be aware of the following university policies:
+
+- Students in this class who hold a license to carry are asked to review the university policy regarding campus carry.
+- Individuals who hold a license to carry are eligible to carry a concealed handgun on campus, including in most outdoor areas, buildings and spaces that are accessible to the public, and in classrooms.
+- It is the responsibility of concealed-carry license holders to carry their handguns on or about their person at all times while on campus. Open carry is NOT permitted, meaning that a license holder may not carry a partially or wholly visible handgun on campus premises or on any university driveway, street, sidewalk or walkway, parking lot, parking garage, or other parking area.
+- Per my right, I prohibit carrying of handguns in my personal office. Note that this information will also be conveyed to all students verbally during the first week of class. This written notice is intended to reinforce the verbal notification, and is not a "legally effective" means of notification in its own right.  
+
+### Title IX Disclosure
+
+Beginning January 1, 2020, Texas Education Code, Section 51.252 (formerly known as Senate Bill 212) requires all employees of Texas universities, including faculty, to report any information to theTitle IX Office regarding sexual harassment, sexual assault, dating violence and stalking that is disclosed to them.
+Texas law requires that all employees who witness or receive any information of this type (including, but not limited to, writing assignments, class discussions, or one-on-one conversations, or third party reports) must be report it.
+Before talking with me, or with any faculty or staff member about a Title IX related incident, please remember that I will be required to report this information to the Title IX Coordinator.
+If you would like to speak with someone who can provide support or remedies without making an official report to the university, please email <supportandresources@austin.utexas.edu>.
+For more information about reporting options and resources, visit <http://www.titleix.utexas.edu/>, contact the Title IX Office via email at <titleix@austin.utexas.edu>, or call 512-471-0419.
+
+Although graduate teaching and research assistants are not subject to Texas Education Code, Section 51.252, they are still mandatory reporters under Federal Title IX laws and are required to report a wide range of behaviors we refer to as sexual misconduct, including the types of sexual misconduct covered under Texas Education Code, Section 51.252.
+The Title IX office has developed supportive ways to respond to a survivor and compiled campus resources to support all impacted by a Title IX incident.
+
+### Campus Safety
+
+The following are recommendations regarding emergency evacuation from [the Office of Campus Safety and Security](https://safety.utexas.edu/), 512-471-5767, 
+
+- Students should sign up for Campus Emergency Text Alerts at the page linked above.
+- Occupants of buildings on The University of Texas at Austin campus must evacuate buildings when a fire alarm is activated. Alarm activation or announcement requires exiting and assembling outside.
+- Familiarize yourself with all exit doors of each classroom and building you may occupy. Remember that the nearest exit door may not be the one you used when entering the building.
+- Students requiring assistance in evacuation shall inform their instructor in writing during the first week of class.
+- In the event of an evacuation, follow the instruction of faculty or class instructors. Do not re-enter a building unless given instructions by the following: Austin Fire Department, The University of Texas at Austin Police Department, or Fire Prevention Services office.
+- For more information, please visit [emergency preparedness](https://preparedness.utexas.edu/).
