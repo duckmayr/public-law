@@ -1,0 +1,62 @@
+---
+title: "Core Readings in Public Law:\\newline Introduction and the Nature of Law"
+author: "JBrandon Duck-Mayr"
+date: "`r quack::american_date_format(Sys.Date())`"
+urlcolor: Blue
+header-includes:
+    - \newcommand{\setsep}{\setlength{\itemsep}{3pt}}
+    - \newcommand{\setskip}{\setlength{\parskip}{3pt}}
+    - \renewcommand{\tightlist}{\setsep\setskip}
+output:
+    quack::presentation:
+        toc: false
+        incremental: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What will we cover?
+
+- Modeling law (both theoretically and empirically)
+- Judicial decision making
+- The function(s) of courts
+- The impact of courts
+
+## Expectations and evaluation
+
+- Reading
+- Participation (25%)
+  + Regularly engage in class discussion
+  + Prepare a discussion guide for three classes with
+    * A brief (~150 words) summary of *one* of the readings
+    * About five questions to provoke discussion of the readings
+    * Uploaded to Canvas by 5 p.m. the day before class readings
+- Essay (25%)
+  + Reflects on at least one broad theoretical question from class
+  + About 1,000--1,500 words (4--6 double-spaced typed pages)
+- Research paper (50%)
+  + On a topic of your choice (related to issues raised in the course)
+  + About 4--5,000 words (16--20 double-spaced typed pages)
+  + Either empirical or employ a positive theoretical approach
+
+## A word of caution, a word of hope
+
+- Some readings will be technical and difficult
+- I do **not** expect you to be formal theorists or political methodologists
+- I do expect you to understand the main argument(s) though, even if you can't fully understand the technical details
+
+## So what is "law" anyway??
+
+\only<2>{
+\begin{block}{Lon L. Fuller, ``Positivism and Fidelity to Law'' (1958)}
+Austin, for example, defines law as the command of the highest legislative power, called the sovereign. For Gray, on the other hand, law consists in the rules laid down by judges\dots
+\end{block}
+}
+
+\only<3-4>{
+\begin{block}{Oliver Wendell Holmes, ``The Path of the Law'' (1897)}
+What constitutes the law? You will find some text writers telling you that it is something different from what is decided by the courts of Massachusetts or England, that it is a system of reason, that it is a deduction from principles of ethics or admitted axioms or what not, which may or may not coincide with the decisions. But if we take the view of our friend the bad man we shall find that he does not care... but that he does want to know what the Massachusetts or English courts are likely to do in fact. I am much of his mind. \textbf<4>{The prophecies of what the courts will do in fact, and nothing more pretentious, are what I mean by the law.}
+\end{block}
+}
